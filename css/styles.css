@@ -1,0 +1,157 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+p{
+  color: #8f8f8f;
+}
+h3{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.3rem;
+}
+#title{
+  background-color: #ff4c68;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.navbar{
+  background-color: #ff4c68;
+  margin-bottom: 20px;
+}
+
+.container-fluid
+{
+  padding: 3% 10% 7% 10%;
+}
+.idog{
+  width: 50%;
+  transform: rotate(20deg);
+  position: absolute;
+  left: 30%;
+
+
+}
+.navbar{
+padding: 0 0 3rem;
+}
+.downloadbtn{
+  width: 40%;
+  margin: 50px 20px auto auto;
+}
+.nav-link{
+  padding: 0 20px;
+
+margin: 5% 5% 5% 5%;
+}
+h1
+{
+    font-family: "Montserrat",sans-serif;
+  color: #e1f4f3;
+  font-size: 3.2rem;
+  line-height: 1.5;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.navbar-brand{
+color: #ff8e99;
+font-size: 2rem;
+}
+.circle{
+  size: 3px;
+  color: #ef8172;
+  padding-bottom: 7%;
+}
+.eye{
+  color: #ef8172;
+  padding-bottom: 7%;
+
+}
+.heart{
+  color: #ef8172;
+  padding-bottom: 7%;
+
+}
+.feature-box{
+  text-align: center;
+  padding: 5.5%;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+.navbar-dark .navbar-brand {
+    color: #ff8e99;
+  }
+
+  #testimonials{
+    background-color: #ff8e99;
+    text-align: center;
+
+
+  }
+  .carousel-item{
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: #fff;
+    padding: 7% 15%;
+  }
+  .testimonial-image{
+    border-radius: 100%;
+    width: 20%;
+    padding: 5% 2% 5%;
+  }
+#press{
+  background-color: #ff8e99;
+  text-align: center;
+}
+.press-logo
+{
+  width: 14%;
+  margin: 5% 5%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-col {
+  padding: 3% 2%;
+}
+@media (max-width: 986px) {
+
+#title{
+  text-align: center;
+}
+.idog{
+  padding-top: 20px;
+  width: 30%;
+  position:static;
+  text-align: center;
+  transform: rotate(0);
+}
+
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5% 5%;
+}
+#footer{
+  text-align: center;
+  background-color: #fff;
+  padding: 5%  10% 1% ;
+}
+.footer-btn{
+  margin: 5% 3%;
+}
+.font{
+  font-family: "Montserrat",sans-serif;
+  font-size: 2rem;
+  color: #e1f4f3;
+}
+.social-icon{
+  margin: 0 10px;
+}
